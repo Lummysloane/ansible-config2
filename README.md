@@ -2,4 +2,4 @@
 
 test
 
-Save artifactrs
+Save artifacts
